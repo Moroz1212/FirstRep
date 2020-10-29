@@ -1,0 +1,10 @@
+H:\4 курс\СисПро\Капча\Капча\bin\Debug\Капча.exe.config
+H:\4 курс\СисПро\Капча\Капча\bin\Debug\Капча.exe
+H:\4 курс\СисПро\Капча\Капча\bin\Debug\Капча.pdb
+H:\4 курс\СисПро\Капча\Капча\obj\Debug\Капча.csprojAssemblyReference.cache
+H:\4 курс\СисПро\Капча\Капча\obj\Debug\Капча.Form1.resources
+H:\4 курс\СисПро\Капча\Капча\obj\Debug\Капча.Properties.Resources.resources
+H:\4 курс\СисПро\Капча\Капча\obj\Debug\Капча.csproj.GenerateResource.cache
+H:\4 курс\СисПро\Капча\Капча\obj\Debug\Капча.csproj.CoreCompileInputs.cache
+H:\4 курс\СисПро\Капча\Капча\obj\Debug\Капча.exe
+H:\4 курс\СисПро\Капча\Капча\obj\Debug\Капча.pdb
